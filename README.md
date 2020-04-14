@@ -3,10 +3,13 @@
 Compile and use.
 
 Usage: 
+
 `sudo ttyhack <file/stream name>`
+
 \***sudo is important!**
 
 Example:
+
 `sudo ttyhack /dev/tty3`
 
 Based on an article on Phrack Magazine:-
