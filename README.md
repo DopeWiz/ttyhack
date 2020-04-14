@@ -13,4 +13,5 @@ Example:
 `sudo ttyhack /dev/tty3`
 
 Based on an article on Phrack Magazine:-
+
 [Phrack Magzine Issue-41 Article-8 | Editor : Dispater](http://www.phrack.org/issues/41/8.html#article)
